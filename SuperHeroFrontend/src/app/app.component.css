@@ -1,0 +1,11 @@
+.MainContainer {
+    display: flex;
+    width: fit-content;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    background-color: rgba(250, 235, 215);
+}
+
+.MainContainer div {
+    padding: 1rem;
+}
